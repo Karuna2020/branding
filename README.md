@@ -50,16 +50,16 @@ This repository contains our static assets and serves them to our CDN.
 <table>
   <tr>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/E02020?text=%20">
-      <div><code>#e02020</code></div>
+      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/c00058?text=%20">
+      <div><code>#c00058</code></div>
     </td>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/4E0000?text=%20">
-      <div><code>#4e0000</code></div>
+      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/4e0029?text=%20">
+      <div><code>#4e0029</code></div>
     </td>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/1F0000?text=%20">
-      <div><code>#1f0000</code></div>
+      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/1f0010?text=%20">
+      <div><code>#1f0010</code></div>
     </td>
   </tr>
 </table>
